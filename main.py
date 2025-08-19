@@ -191,8 +191,6 @@ fig_animation.update_layout(
 
 st.plotly_chart(fig_animation, use_container_width=True)
 
----
-
 ### **항성 정보 표시**
 
 st.header("항성 정보")
