@@ -106,8 +106,6 @@ fig_flux = go.Figure(
 )
 st.plotly_chart(fig_flux, use_container_width=True)
 
----
-
 ### **애니메이션 출력: 관측자 시점 조정**
 
 st.header("행성의 식현상 애니메이션 (관측 시점 조정)")
